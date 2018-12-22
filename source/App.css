@@ -1,0 +1,17 @@
+/*
+	Put anything you reference with "url()" in ../assets/
+	This way, you can minify your application, and just remove the "source" folder for production
+*/
+#app {
+	border-radius: 0px;
+	width: auto;
+	margin: auto;
+}
+#parameter {
+	background-color: white;
+	width: 20%;
+	font-family: Geogria;
+	font-size: 16px;
+	font-style: italic;
+	padding: 10px;
+},
